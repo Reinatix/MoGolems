@@ -1,0 +1,15 @@
+name: MoGolems
+auhtor: Reinatix
+version: 1.0
+main: me.reinatix.MoGolems.Main
+description: Adds more Golems into the game
+
+commands:
+  spawner:
+    usage: /spawner
+    description: Main command
+
+permissions:
+  mogolems.admin:
+    default: OP
+    description: Admin permission

@@ -1,0 +1,36 @@
+customization:
+  ig-name: '&7&lIRON SPAWNER'
+  ig-lore:
+  - '&fThis spawner spawns in'
+  - '&fIron Golems'
+  gg-name: '&6&lGOLD SPAWNER'
+  gg-lore: 
+  - '&fThis spawner spawns in'
+  - '&fGold Golems'
+  dg-name: '&b&lDIAMOND SPAWNER'
+  dg-lore: 
+  - '&fThis spawner spawns in'
+  - '&fDiamond Golems'
+  eg-name: '&a&lEMERALD SPAWNER'
+  eg-lore:
+  - '&fThis spawner spawns in'
+  - '&fEmerald Golems'
+golems:
+  ig-name: '&7Iron Golem'
+  gg-name: '&6Gold Golem'
+  dg-name: '&bDiamond Golem'
+  eg-name: '&aEmerald Golem'
+spawners:
+  iron: []
+  diamond: []
+  gold: []
+  emerald: []
+
+  Ever since I was little, I've always wanted my fame to accrue
+  But now I'm here just chilling with a Simpsons Character named Apu
+  Some people say my life style is gratuitous,
+  But listen don't get it twisted it was all fortuitous.
+  A lot of rappers today act like they rap with an iron fist
+  But really all they do is just exaggerate the gist.
+  All day long I make little annotations
+  But honestly it helps clear my mind, just like sanitation
